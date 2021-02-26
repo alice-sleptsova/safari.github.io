@@ -161,13 +161,9 @@ main {
         -webkit-column-gap: 40px;
         }
 
-        footer {
-            position: fixed;
-            left: 0; bottom: 0; 
-            padding: 10px; 
-            color: #cacaca;
-            width: 100%; 
-           }
+.footer {
+    flex-shrink: 0;
+}
 .video {
     display: flex;
     justify-content: center;
