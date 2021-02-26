@@ -8,7 +8,6 @@ body {
 section {
     
     width: 414px;
-    border: 1px solid #ccc;
     overflow-y: scroll;
     
 }
